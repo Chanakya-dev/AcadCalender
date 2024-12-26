@@ -221,7 +221,7 @@ const Schedule = () => {
                       backgroundColor: subject.color,
                       textAlign: "left",
                       padding: "1px",
-                      marginBottom: "10px",
+                      marginBottom: "8px",
                       borderRadius: "5px",
                       cursor: "pointer",
                       fontWeight: "bold",
